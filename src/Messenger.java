@@ -2,6 +2,6 @@
 public class Messenger {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Dod");
+		System.out.println("Hello Dog");
 	}
 }
